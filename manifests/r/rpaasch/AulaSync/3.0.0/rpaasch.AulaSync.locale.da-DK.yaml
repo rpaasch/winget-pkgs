@@ -16,12 +16,14 @@ Description: |-
   import. AulaSync kører i systembakken. Ikke tilknyttet eller godkendt af Aula, KOMBIT, Netcompany eller KMD.
   Fra version 3 synkroniseres beskeder ikke længere, og indstillinger fra 2.x overføres ikke.
 Tags:
-- aula
-- skole
-- skema
-- kalender
-- outlook
-- ics
+  - aula
+  - outlook
+  - skole
+  - sync
+  - education
+  - kalender
+  - ics
+  - skema
 ReleaseNotesUrl: https://github.com/rpaasch/AulaSync/releases/tag/v3.0.0
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
